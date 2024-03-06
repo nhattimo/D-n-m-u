@@ -1,0 +1,12 @@
+E:\CODE\CODE_C#\App_QLKS\DTO\bin\Debug\DTO.dll
+E:\CODE\CODE_C#\App_QLKS\DTO\bin\Debug\DTO.pdb
+E:\CODE\CODE_C#\App_QLKS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\CODE\CODE_C#\App_QLKS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_C#\App_QLKS\DTO\obj\Debug\DTO.dll
+E:\CODE\CODE_C#\App_QLKS\DTO\obj\Debug\DTO.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\bin\Debug\DTO.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\bin\Debug\DTO.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\obj\Debug\DTO.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DTO\obj\Debug\DTO.pdb

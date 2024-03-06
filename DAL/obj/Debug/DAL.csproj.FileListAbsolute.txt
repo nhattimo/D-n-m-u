@@ -1,0 +1,38 @@
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\DAL.dll
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\DAL.pdb
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\DTO.dll
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\EntityFramework.dll
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\DTO.pdb
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\EntityFramework.xml
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.dll
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.pdb
+E:\CODE\CODE_C#\App_QLKS\DAL\bin\Debug\DAL.dll.config
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.Migrations.CODESQL.resources
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.Migrations.CODESQL1.resources
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.Migrations.Migration.resources
+E:\CODE\CODE_C#\App_QLKS\DAL\obj\Debug\DAL.Migrations.Migration1.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\DAL.dll.config
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\DAL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\DAL.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\DTO.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\EntityFramework.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\DTO.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\EntityFramework.xml
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.Migrations.CODESQL.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.Migrations.CODESQL1.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.Migrations.Migration.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.Migrations.Migration1.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\DAL\obj\Debug\DAL.pdb

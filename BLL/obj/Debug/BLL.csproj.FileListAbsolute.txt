@@ -1,0 +1,28 @@
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\BLL.dll
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\BLL.pdb
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\DAL.dll
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\DTO.dll
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\DAL.pdb
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\DTO.pdb
+E:\CODE\CODE_C#\App_QLKS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\CODE\CODE_C#\App_QLKS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_C#\App_QLKS\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\CODE\CODE_C#\App_QLKS\BLL\obj\Debug\BLL.dll
+E:\CODE\CODE_C#\App_QLKS\BLL\obj\Debug\BLL.pdb
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\EntityFramework.dll
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\EntityFramework.xml
+E:\CODE\CODE_C#\App_QLKS\BLL\bin\Debug\DAL.dll.config
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\BLL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\BLL.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\DAL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\DTO.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\EntityFramework.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\DAL.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\DAL.dll.config
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\DTO.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\bin\Debug\EntityFramework.xml
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\obj\Debug\BLL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\BLL\obj\Debug\BLL.pdb

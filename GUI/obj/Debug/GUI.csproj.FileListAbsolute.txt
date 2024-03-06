@@ -1,0 +1,94 @@
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\GUI.exe
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\GUI.pdb
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\BLL.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\DTO.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\BLL.pdb
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\DTO.pdb
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.exe
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.pdb
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\Guna.UI2.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemPhong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangNhap.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.FormDangNhapDangKy.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\EntityFramework.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\EntityFramework.xml
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangKy1.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\DAL.dll
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\DAL.pdb
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangKyKachHang.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DatPhong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.FormNguoiDung.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_LapPhieuThue.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThanhToan.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_Phong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThongTinPhong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.FormNhanVien.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DichVu.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_DatPhong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_KhachHang.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemDichVu.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemNhanVien.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.US_BaoCaoThongKe.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.FormQuanLy.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_US_NguoiDung.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DoiPhong.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\GUI.exe.config
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_DangKyKhachHang.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\bin\Debug\DAL.dll.config
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_ThanhToan.resources
+E:\CODE\CODE_C#\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_US_NV.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\GUI.exe.config
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\GUI.exe
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\GUI.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\BLL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\DTO.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\EntityFramework.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\Guna.UI2.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\DAL.dll
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\BLL.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\DTO.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\EntityFramework.xml
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\DAL.pdb
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\bin\Debug\DAL.dll.config
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangKy1.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangKyKachHang.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DangNhap.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DatPhong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DichVu.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_DoiPhong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_KhachHang.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_LapPhieuThue.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_DangKyKhachHang.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_DatPhong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_NV_ThanhToan.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_Phong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThanhToan.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemDichVu.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemNhanVien.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThemPhong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_ThongTinPhong.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_US_NguoiDung.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.UC_US_NV.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.All_User_Controller.US_BaoCaoThongKe.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.FormDangNhapDangKy.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.FormNguoiDung.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.FormNhanVien.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.FormQuanLy.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.exe
+D:\CODE\CODE_C#\CODE APP\App_QLKS\GUI\obj\Debug\GUI.pdb
